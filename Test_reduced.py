@@ -49,6 +49,9 @@ for i in range(K):
 C_est     = (1./K)*cov  # the "averaged" covariance matrix based on points realizations
 prum_est  = (1./K)*prum 
 
+print ('Estimated mean, estimated sigma')
+
+
 
 
 # =========== Some visualization ===============================================
